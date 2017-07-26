@@ -1,0 +1,30 @@
+#menu{
+//height:50px;
+//width:800px;
+border:1px solid;
+margin-top:20px;
+margin-left:50px;
+background-color:black;
+border-radius:10px}
+#menu ul{
+list-style-type:none;
+}
+#menu ul li{
+display:inline;
+//border:1px solid;
+padding:10px;
+}
+#menu ul li a{
+color:white;
+text-decoration:none;
+font-width:bold;}
+#menu ul li a:hover{
+color:yellow;
+//text-decoration:underline overline;
+//text-decoration:overline;
+border-top:2px solid yellow;
+border-bottom:2px solid yellow;
+}
+body{
+    background-image: url('images/book5.jpg');
+}
